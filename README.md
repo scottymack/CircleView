@@ -1,3 +1,5 @@
+This is just copy of https://github.com/lopspower/CircleView hosted on JitPack since Bintray was sunset.
+
 CircleView
 =================
 
